@@ -29,20 +29,20 @@ Ensure your repository is public and submitted by **August 9, 2024, 23:59pm US E
 
 Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
 
-### Team Information:
-Team Member 1: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
- - Current affiliation:
+### Team Information: Vicris Team
+Team Member 1: _Cristal Mayega_
+ - Email: mayegacristallydie@gmail.com
+ - Discord ID: crislymay#1560
+ - GitHub ID: https://github.com/crisly-may
+ - Nationality: Cameroonian
+ - Current affiliation: University of Ngaoundere, Cameroon
 
-Team Member 2: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
- - Current affiliation:
+Team Member 2: _Victor Adeyemi_
+ - Email: ayobamivikky@gmail.com
+ - Discord ID: Davikky#4899
+ - GitHub ID: https://github.com/davikky
+ - Nationality: Nigerian
+ - Current affiliation: University of Ibadan, Ibadan.
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
