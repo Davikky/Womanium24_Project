@@ -48,6 +48,20 @@ Team Member 2: _Victor Adeyemi_
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
+
+References:
+
+> Daniel Bacioiu, Geoff Melton, Mayorkinos Papaelias, Rob Shaw,
+Automated defect classification of Aluminium 5083 TIG welding using HDR camera and neural networks,
+Journal of Manufacturing Processes,
+Volume 45,
+2019,
+Pages 603-613,
+ISSN 1526-6125,
+https://doi.org/10.1016/j.jmapro.2019.07.020.
+(https://www.sciencedirect.com/science/article/pii/S1526612519302245)
+
+
 ### Project Presentation Deck:
 _Link a 5min. presentation recording or deck here._
 
