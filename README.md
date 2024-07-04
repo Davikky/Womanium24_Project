@@ -32,7 +32,7 @@ Ensure your repository does not contain any personal or team tokens/access infor
 ### Team Information: Vicris Team
 Team Member 1: _Cristal Mayega_
  - Email: mayegacristallydie@gmail.com
- - Discord ID: crislymay#1560
+ - Discord ID: crislymay1560
  - GitHub ID: https://github.com/crisly-may
  - Nationality: Cameroonian
  - Current affiliation: University of Ngaoundere, Cameroon
